@@ -120,6 +120,10 @@ ul.skills {
   background: #0399ff;
 }
 
+.bulletpoints {
+  padding: 5px;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
